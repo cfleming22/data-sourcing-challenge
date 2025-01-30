@@ -19,7 +19,7 @@ The data is sourced from NASA's DONKI (Database Of Notifications, Knowledge, Inf
 
 1. Clone this repository:
 ```bash
-git clone [repository-url]
+git clone [cfleming22/data-sourcing-challenge]
 cd data-sourcing-challenge
 ```
 
